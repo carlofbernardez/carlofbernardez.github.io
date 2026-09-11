@@ -1,35 +1,35 @@
-# Carlo F. Bernardez Portfolio
+# Carlo F. Bernardez
 
-Welcome to the source code for my personal engineering portfolio.
-
-This website showcases my projects, leadership experience, and technical skills as a Mechanical Engineering student at Arizona State University. It serves as a central location for my engineering work, resume, and professional experience.
-
-## 🌐 Live Website
-
-**https://portfolio.carlobernardez.com**
-
-## 📂 Website Sections
-
-- Home
-- About
-- Engineering Experience
-- Projects
-- Resume
-- Contact
-
-## 🛠️ Built With
-
-- HTML5
-- CSS3
-- JavaScript
-- GitHub Pages
-
-## 📬 Contact
-
-**Email:** cfbernar@asu.edu  
-**LinkedIn:** https://linkedin.com/in/cfbernardez
+### Mechanical Engineering Student
+**Arizona State University**  
+Barrett, The Honors College
 
 ---
 
-Thank you for visiting my portfolio!
+## About
 
+Welcome to my engineering portfolio. I am a Mechanical Engineering student at Arizona State University with interests in robotics, mechanical design, manufacturing, and product development. This site serves as a central location for my professional portfolio and resume.
+
+---
+
+## Quick Access
+
+📁 **Engineering Portfolio**  
+➡️ [View Portfolio (PDF)](./Portfolio.pdf)
+
+📄 **Resume**  
+➡️ [View Resume (PDF)](./Resume.pdf)
+
+---
+
+## Contact
+
+📧 **Email:** cfbernar@asu.edu
+
+🔗 **LinkedIn:** https://linkedin.com/in/cfbernardez
+
+🌐 **Portfolio:** https://portfolio.carlobernardez.com
+
+---
+
+> Thank you for visiting my portfolio.
