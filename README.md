@@ -30,8 +30,6 @@ I am a Mechanical Engineering student at Arizona State University with interests
 
 🔗 **LinkedIn:** https://linkedin.com/in/cfbernardez
 
-🌐 **Website:** https://portfolio.carlobernardez.com
-
 ---
 
 > Thank you for visiting my portfolio. I'm currently building this website and adding engineering projects as I continue my studies at Arizona State University.
