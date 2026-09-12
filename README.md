@@ -15,10 +15,10 @@ Welcome to my engineering portfolio. I am a Mechanical Engineering student at Ar
 ## Quick Access
 
 📁 **Engineering Portfolio**  
-➡️ [View Portfolio (PDF)](./Portfolio.pdf)
+➡️ [View Portfolio (PDF)](./Carlo_Bernardez_Portfolio.pdf)
 
 📄 **Resume**  
-➡️ [View Resume (PDF)](./Resume.pdf)
+➡️ [View Resume (PDF)](./Carlo_Bernardez_Resume.pdf)
 
 ---
 
@@ -28,7 +28,6 @@ Welcome to my engineering portfolio. I am a Mechanical Engineering student at Ar
 
 🔗 **LinkedIn:** https://linkedin.com/in/cfbernardez
 
-🌐 **Portfolio:** https://portfolio.carlobernardez.com
 
 ---
 
