@@ -2,7 +2,7 @@
 
 ### Mechanical Engineering Student
 
-**Arizona State University**  
+**Arizona State University**\
 Barrett, The Honors College
 
 ---
@@ -17,10 +17,11 @@ I am a Mechanical Engineering student at Arizona State University with interests
 
 ## Quick Access
 
-📄 **Resume**  
-➡️ [View Resume (PDF)](./Bernardez%20Resume.docx%20(2).pdf)
+📄 **Resume**\
+➡️ [View Resume (PDF)](./Bernardez%20Resume.docx%20\(2\).pdf)
 
-📁 **Engineering Portfolio** *(Coming Soon)*
+📁 **Engineering Portfolio**\
+➡️ [View Portfolio (PDF)](./Bernardez%20Portfolio.pdf)
 
 ---
 
